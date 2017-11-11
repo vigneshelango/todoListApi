@@ -1,0 +1,29 @@
+{
+  "name": "todoListApi",
+  "version": "1.0.0",
+  "description": "\"RESTful todoListApi\",",
+  "main": ",",
+  "scripts": {
+    "test": "\"exit\"",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "{\"type\":\"git\",\"url\":\"git+https://github.com/generalgmt/RESTfulAPITutorial.git\"},"
+  },
+  "keywords": [
+    "[\"RESTful\"",
+    "\"API\"",
+    "\"Tutorial\"]"
+  ],
+  "author": "\"viki\"",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^1.12.1"
+  },
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "cors": "^2.8.4",
+    "express": "^4.16.2"
+  }
+}
